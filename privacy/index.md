@@ -4,7 +4,7 @@ title: Privacy Policy — Orb Legends
 
 # Orb Legends — Privacy Policy
 
-**Effective date:** 27 October 2026
+**Effective date:** 28 October 2026
 **Contact:** jackbee.tech@gmail.com
 
 ## What this policy covers
@@ -21,6 +21,14 @@ file on your device. It is not sent to us. Deleting the game erases it, and it c
 your payment details. The store tells the game which pack you bought so the gems can be delivered. Unity IAP, the
 library that talks to the store, may send purchase telemetry to Unity Technologies.
 
+**Game analytics (Google Analytics for Firebase).** To learn how the game is played and where it can be improved, the
+game uses Google Analytics for Firebase. It records how the game is used — for example sessions, stages won or lost,
+finishing the tutorial, opening the shop, rewarded ads watched and in-app purchases — together with device information
+(model, operating system, language, approximate location from the IP address) and a random app-instance identifier.
+**It is used for analytics only:** the game tells Firebase that advertising storage, advertising use of the data and ad
+personalisation are not allowed, so this data is not used to show you ads. Google's policy:
+https://policies.google.com/privacy and how Google uses data from apps: https://policies.google.com/technologies/partner-sites
+
 **Ads (Unity Ads).** The game offers optional ads that you choose to watch for a reward, and after some finished stages
 it may show a full-screen ad (never during a fight, never in the first stages, and a limited number a day). They are
 served by Unity Ads, whose SDK collects device information such as the advertising identifier, IP address
@@ -30,8 +38,7 @@ ads at you. Unity's privacy policy: https://unity.com/legal/game-player-and-app-
 
 ## What we do not do
 
-We do not collect your name, email address, contacts, photos, microphone or precise location, and we use no analytics
-service. We do not sell personal information, and we do not use it to target ads at you.
+We do not collect your name, email address, contacts, photos, microphone or precise location. We do not sell personal information, and we do not use it to target ads at you.
 
 ## Children
 
@@ -43,8 +50,8 @@ information from children.
 * Your game data lives only on your device; delete the game to delete it.
 * Reset or delete your advertising ID in your device settings.
 * Depending on where you live (for example the EEA, the UK, California), you may have the right to access, correct or
-  delete personal information and to object to certain processing. We hold no data about you; for data held by Unity,
-  use the contacts in its policy above; for anything else, write to jackbee.tech@gmail.com.
+  delete personal information and to object to certain processing. We hold no game data about you; analytics data is kept by Google for up to 14 months
+  and is not linked to your name or account; for data held by Unity or Google, use the contacts in their policies above; for anything else, write to jackbee.tech@gmail.com.
 
 ## Changes
 
